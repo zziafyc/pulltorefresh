@@ -51,9 +51,6 @@
         }
     }
     
-    [此处输入链接的描述][1]
-
-  [这是我的github地址]: https://github.com/zziafyc/pulltorefresh
-  
-  
-  > 最后希望这个项目对大家有帮助
+    [这是我的github地址][1]
+    [1]: https://github.com/zziafyc/pulltorefresh
+   > 最后希望这个项目对大家有帮助
